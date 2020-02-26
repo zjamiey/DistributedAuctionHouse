@@ -1,0 +1,8 @@
+*.iml
+*.idea
+*.class
+*.txt
+compiler-output/
+out/
+*.uml
+
